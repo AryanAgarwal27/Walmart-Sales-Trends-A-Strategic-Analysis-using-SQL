@@ -48,7 +48,7 @@ Formulas for calculating COGS, VAT, total sales, gross profit, and gross margin 
 
 ## Code
 
-The SQL queries for creating the database and table are included in the [Analysis_of_Walmart_Sales.sql]() file.
+The SQL queries for creating the database and table are included in the [Analysis_of_Walmart_Sales.sql](https://github.com/AryanAgarwal27/Walmart-Sales-Trends-A-Strategic-Analysis-using-SQL/blob/main/Analysis_of_Walmart_Sales.sql) file.
 
 For more detailed code and analysis, please refer to the provided SQL file.
 
